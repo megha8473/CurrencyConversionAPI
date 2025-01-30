@@ -6,11 +6,11 @@ GET https://localhost:44323/api/currency/rates
 [image](https://github.com/user-attachments/assets/c7bf4070-23a9-4f55-9850-0ea585e6cb50)
 
 # To fetch and store all the data to table 
-POST https://localhost:44323/api/currency/fetch-rates(along  with auth token which we will get from login endpoint)
+POST https://localhost:44323/api/currency/fetch-rates (along  with auth token which we will get from login endpoint)
 [image](https://github.com/user-attachments/assets/8b8a849b-0574-4469-b96e-748ddb481b12)
 
 # To convert amount fromcurrent to Tocurrency
-https://localhost:44323/api/currency/convert(along  with auth token which we will get from login endpoint)
+https://localhost:44323/api/currency/convert (along  with auth token which we will get from login endpoint)
 BODY:
 {
   "FromCurrency": "AUD",
