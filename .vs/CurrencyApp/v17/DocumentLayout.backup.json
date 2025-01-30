@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|c:\\users\\megha\\source\\repos\\currencyapp\\currencyapp\\controllers\\currencycontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|solutionrelative:currencyapp\\controllers\\currencycontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|c:\\users\\megha\\source\\repos\\currencyapp\\currencyapp\\services\\currencyrateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|solutionrelative:currencyapp\\services\\currencyrateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|c:\\users\\megha\\source\\repos\\currencyapp\\currencyapp\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|solutionrelative:currencyapp\\helpers\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|c:\\users\\megha\\source\\repos\\currencyapp\\currencyapp\\models\\currencyrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|solutionrelative:currencyapp\\models\\currencyrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|c:\\users\\megha\\source\\repos\\currencyapp\\currencyapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|solutionrelative:currencyapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|c:\\users\\megha\\source\\repos\\currencyapp\\currencyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|solutionrelative:currencyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174E3E37-E7C0-4564-8782-CBA300226A32}|CurrencyConversionAppTests\\CurrencyConversionAppTests.csproj|c:\\users\\megha\\source\\repos\\currencyapp\\currencyconversionapptests\\controllers\\currencycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174E3E37-E7C0-4564-8782-CBA300226A32}|CurrencyConversionAppTests\\CurrencyConversionAppTests.csproj|solutionrelative:currencyconversionapptests\\controllers\\currencycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|c:\\users\\megha\\source\\repos\\currencyapp\\currencyapp\\models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5567A-A427-4FA0-BD65-9A44237179E2}|CurrencyApp\\CurrencyApp.csproj|solutionrelative:currencyapp\\models\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrencyControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyConversionAppTests\\Controllers\\CurrencyControllerTests.cs",
+              "RelativeDocumentMoniker": "CurrencyConversionAppTests\\Controllers\\CurrencyControllerTests.cs",
+              "ToolTip": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyConversionAppTests\\Controllers\\CurrencyControllerTests.cs",
+              "RelativeToolTip": "CurrencyConversionAppTests\\Controllers\\CurrencyControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:26:28.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CurrencyApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CurrencyApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwE8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:54:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyApp\\Program.cs",
+              "ToolTip": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Program.cs",
+              "RelativeToolTip": "CurrencyApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:26:28.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Controllers\\CurrencyControllercs.cs",
+              "RelativeDocumentMoniker": "CurrencyApp\\Controllers\\CurrencyControllercs.cs",
+              "ToolTip": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Controllers\\CurrencyControllercs.cs",
+              "RelativeToolTip": "CurrencyApp\\Controllers\\CurrencyControllercs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:42:06.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyRateServices.cs",
+              "DocumentMoniker": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Services\\CurrencyRateServices.cs",
+              "RelativeDocumentMoniker": "CurrencyApp\\Services\\CurrencyRateServices.cs",
+              "ToolTip": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Services\\CurrencyRateServices.cs",
+              "RelativeToolTip": "CurrencyApp\\Services\\CurrencyRateServices.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:58:43.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Helpers\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "CurrencyApp\\Helpers\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Helpers\\DatabaseHelper.cs",
+              "RelativeToolTip": "CurrencyApp\\Helpers\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:48:53.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyRates.cs",
+              "DocumentMoniker": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Models\\CurrencyRates.cs",
+              "RelativeDocumentMoniker": "CurrencyApp\\Models\\CurrencyRates.cs",
+              "ToolTip": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Models\\CurrencyRates.cs",
+              "RelativeToolTip": "CurrencyApp\\Models\\CurrencyRates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:17:24.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Models\\Conversion.cs",
+              "RelativeDocumentMoniker": "CurrencyApp\\Models\\Conversion.cs",
+              "ToolTip": "C:\\Users\\megha\\source\\repos\\CurrencyApp\\CurrencyApp\\Models\\Conversion.cs",
+              "RelativeToolTip": "CurrencyApp\\Models\\Conversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:16:23.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

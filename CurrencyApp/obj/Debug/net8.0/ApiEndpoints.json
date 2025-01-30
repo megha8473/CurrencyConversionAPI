@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CurrencyApp.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CurrencyApp.Controllers.AuthController\u002BUserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyConversionAPI.Controllers.CurrencyController",
+    "Method": "ConvertCurrency",
+    "RelativePath": "api/Currency/convert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CurrencyApp.Models.Conversion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyConversionAPI.Controllers.CurrencyController",
+    "Method": "FetchAndStoreRates",
+    "RelativePath": "api/Currency/fetch-rates",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurrencyConversionAPI.Controllers.CurrencyController",
+    "Method": "GetRates",
+    "RelativePath": "api/Currency/rates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
